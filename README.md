@@ -20,7 +20,7 @@ Both should be installed and make sure mongodb is running.
 #### First Method
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
+git clone https://github.com/MohitLucifer/chat-app-react-nodejs
 cd chat-app-react-nodejs
 ```
 
@@ -81,5 +81,3 @@ docker compose up
 ```
 
 now open localhost:3000 in your browser.
-
-https://github.com/koolkishan/chat-app-react-nodejs
